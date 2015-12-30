@@ -1,0 +1,79 @@
+body {
+   background: Black; 
+   text-align: center;
+   }
+   
+   
+
+   
+ li {
+	 color:White;
+	 display:inline;
+	 position: relative;
+	 top:80px;
+	 font-size:18px;
+	 font-family:Arial;
+	 margin:60px;
+	 border:1px solid white;
+	 padding:5px 20px 5px 20px;
+     border-radius:5px;
+ }  
+
+ h1{
+	position: relative;
+	color:Black;
+	text-align:center;
+	font-family:Arial;
+    	
+	
+ }
+ 
+ #main {
+	
+	 position:relative;
+	 top:110px;
+	 width: 1200px;
+	 height: 550px;
+	 background-image:url('https://scontent-lga3-1.xx.fbcdn.net/hphotos-xpt1/t31.0-8/s960x960/12140997_10153691663823130_979672941352768257_o.jpg');
+	 margin:  auto;	
+     font-size: 18px;	
+	
+	 
+	 
+     	 
+ }
+
+ 
+#bottom  {
+	font-family:Arial;
+	position:relative;
+	color:white;
+	bottom:-250px
+	
+
+}
+
+a:hover{
+	color:red;
+	
+}
+
+
+ div img {
+	 
+	 width: 200px;
+	 height:200px;
+ }
+ 
+ #bottom img {
+	 margin:auto;
+	 width: 50px;
+	 height:50px;
+ }
+ 
+	 
+
+ 
+ 
+ 
+ 
