@@ -90,7 +90,7 @@ a:hover{
 /*----- Menu Outline-----*/
 .menu-warap {
 	 width:100%;
-	 box-shadow:0px 1px 3px rgba(0 ,0 ,0 ,2);
+
 	
 }
 
@@ -153,22 +153,17 @@ a:hover{
 
 .sub-menu {
 
-	width:160%;
-	padding:5px 0px;
 	position:absolute;
 	top:100%;
 	z-index:-1;
 	opacity:0;
 	transition:opacity liner 0.15s;
-	box-shadow:0px 2px 3px rgba(0,0,0,0,2);
 	background:#2e2728;
 
 }
 
 
-      /*----the rgba(0,0,0,0.2) is. It states 
-      a color (Red, Green and Blue) then the opacity (Alpha),
-      in this case it’s 20% (0.2)-----*/
+ 
 
 .sub-menu li {
 	display:block;
