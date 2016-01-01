@@ -53,10 +53,6 @@ body {
 
 }
 
-a:hover{
-	color:gray;
-	
-}
 
 
  div img {
@@ -123,11 +119,8 @@ a:hover{
 	position:relative;
 }
 
-.menu > ul > li > a {
-	padding:10px 40px;
-	display:inline-block;
-	text-shadow:0px 1px0px rgba(0,0,0,4);
-}
+
+
 
 .menu > ul > li:hover > a, .menu > ul >. current-item > a {
 	background:#2e2728;
