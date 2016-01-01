@@ -13,7 +13,7 @@ body {
 	 top:80px;
 	 font-size:18px;
 	 font-family:Arial;
-	 margin:50px;
+	 margin:60px;
 	 border:1px solid white;
 	 padding:5px 20px 5px 20px;
      border-radius:5px;
@@ -71,111 +71,6 @@ body {
 
 
 
-
-
-
-
-
-
-	 
-.clearfix:after{
-	display:block;
-	clear:both;
-}
-
-/*----- Menu Outline-----*/
-.menu-warap {
-	 width:100%;
-
-	
-}
-
-
-
-
-.menu li {
-
-	
-	list-style:none;
-
-}
-
-.menu a {
-
-	transition:all linear 0.15s;
-	
-}
-
-.menu li:hover > a, .menu .current-item> a {
-	text-decoration:none;
-	color:#be5b70;
-
-}
-
-/*-----Top Level-----*/
-.menu > ul > li {
-	display:inline-block;
-	position:relative;
-}
-
-
-
-
-.menu > ul > li:hover > a, .menu > ul >. current-item > a {
-	background:#2e2728;
-}
-
-
-
-.menu .arrow {
-	font-size:11px;
-	line-height:0%;
-}
-
-/*-----Bottom Level-----*/
-
-.menu li:hover .sub-menu {
-
-	z-index:1;
-	opacity:1;
-}
-
-.sub-menu {
-    witde:160%;
-	position:absolute;
-	top:100%;
-	
-	opacity:0;
-	transition:opacity liner 0.15s;
-	background:#2e2728;
-
-}
-
-
- 
-
-.sub-menu li {
-	display:block;
-
-}
-sub-menu li a {
-
-	padding:10px 30px;
-	display:block;
-}
-
-
-.sub-menu li a {
-
-	padding:10px 30px;
-	display:block;
-}
-
-
-.sub-menu li a:hover, .sub-menu .current-item a {
-
-	background:white;
-}
 
 
 
