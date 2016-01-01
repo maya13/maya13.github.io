@@ -156,8 +156,10 @@ body {
 
 .sub-menu li {
 	display:block;
+	color: red;
 
-}sub-menu li a {
+}
+sub-menu li a {
 
 	padding:10px 30px;
 	display:block;
@@ -173,7 +175,7 @@ body {
 
 .sub-menu li a:hover, .sub-menu .current-item a {
 
-	background:#3e3436;
+	background:white;
 }
 
 
