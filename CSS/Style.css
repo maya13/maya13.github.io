@@ -6,17 +6,7 @@ body {
    
 
    
- li {
-	 color:White;
-	 display:inline;
-	 position: relative;
-	 top:80px;
-	 font-size:18px;
-	 font-family:Arial;
-	 margin:60px;
-	 border:1px solid white;
-	 padding:5px 20px 5px 20px;
-     border-radius:5px;
+
  }  
 
  h1{
@@ -156,7 +146,6 @@ body {
 
 .sub-menu li {
 	display:block;
-	color: red;
 
 }
 sub-menu li a {
