@@ -92,7 +92,6 @@ body {
 .dropdown {
     position: relative;
     display: inline-block;
-    top:90px;
 }
 
 /* Dropdown Content (Hidden by Default) */
@@ -101,6 +100,7 @@ body {
     position: absolute;
     background-color: #f9f9f9;
     min-width: 160px;
+    top:90px;
      
 
 }
