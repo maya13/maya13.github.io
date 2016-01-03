@@ -6,7 +6,7 @@ body {
    
 
    
- div li {
+ .div li {
 	 color:white;
 	 display:inline;
 	 position: relative;
