@@ -48,7 +48,7 @@ a {
 
  
 #bottom  {
-	font-family:Arial;
+
 	position:relative;
 	
 	bottom:-250px
@@ -70,21 +70,14 @@ a {
 	 height:50px;
  }
  
-
-
-
-
-
-
-    
-}
-
 /* Dropdown Button */
 .dropbtn {
     
     font-size: 16px;
     border: none;
     cursor: pointer;
+    background-color: black;
+    
 }
 
 /* Dropdown button on hover & focus */
