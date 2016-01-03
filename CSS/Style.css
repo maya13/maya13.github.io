@@ -31,7 +31,7 @@ body {
  #main {
 	
 	 position:relative;
-	 top:180px;
+	 top:200px;
 	 width: 1200px;
 	 height: 550px;
 	 background-image:url('https://scontent-lga3-1.xx.fbcdn.net/hphotos-xpt1/t31.0-8/s960x960/12140997_10153691663823130_979672941352768257_o.jpg');
@@ -82,9 +82,6 @@ a {
 /* Dropdown Button */
 .dropbtn {
     
-   background-color: #4CAF50;
-    color: white;
-    padding: 16px;
     font-size: 16px;
     border: none;
     cursor: pointer;
@@ -92,7 +89,7 @@ a {
 
 /* Dropdown button on hover & focus */
 .dropbtn:hover, .dropbtn:focus {
-    background-color: red;
+    background-color: ;
 }
 
 /* The container <div> - needed to position the dropdown content */
@@ -120,8 +117,7 @@ a {
 }
 
 /* Change color of dropdown links on hover */
-.dropdown-content a:hover {
-	background-color: white;}
+.dropdown-content a:hover {background-color: white;}
 
 /* Show the dropdown menu (use JS to add this class to the 
 	.dropdown-content container when the user clicks on the dropdown button) */
