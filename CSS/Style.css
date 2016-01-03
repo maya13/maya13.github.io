@@ -85,6 +85,7 @@ a {
     font-size: 16px;
     border: none;
     cursor: pointer;
+    background-color: black;
 }
 
 /* Dropdown button on hover & focus */
