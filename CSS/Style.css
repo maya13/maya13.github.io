@@ -7,7 +7,7 @@ body {
 
    
  li {
-	 color:White;
+	 font-color:White;
 	 display:inline;
 	 position: relative;
 	 top:80px;
@@ -123,7 +123,7 @@ a {
 	.dropdown-content container when the user clicks on the dropdown button) */
 .show {
 	display:block;
-	background-color: black;
+	background-color: white;
 }
 
 
