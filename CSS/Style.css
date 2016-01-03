@@ -1,5 +1,5 @@
 body {
-   background: Black; 
+   background: black; 
    text-align: center;
    }
    
@@ -7,7 +7,7 @@ body {
 
    
  li {
-	 font-color:White;
+	 color:white;
 	 display:inline;
 	 position: relative;
 	 top:80px;
@@ -19,12 +19,7 @@ body {
      border-radius:5px;
  }  
 
- h1{
-	position: relative;
-	color:Black;
-	text-align:center;
-	font-family:Arial;
-    	
+
 	
  }
  
