@@ -11,7 +11,7 @@ body {
 	 display:inline;
 	 position: relative;
 	 top:80px;
-	 font-size:18px;
+	 font-size:16px;
 	 font-family:Arial;
 	 margin:60px;
 	 border:1px solid white;
@@ -61,7 +61,12 @@ body {
 	 height:200px;
  }
  
-
+ #bottom img {
+	 margin:auto;
+	 width: 50px;
+	 height:50px;
+ }
+ 
 
 
 
