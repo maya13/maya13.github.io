@@ -108,8 +108,7 @@ a {
     position: absolute;
     background-color: black;
     min-width: 160px;
-    list-style-type: none;
-	border-radius: 8px; 
+     
 
 }
 
@@ -122,7 +121,6 @@ a {
 
 /* Change color of dropdown links on hover */
 .dropdown-content a:hover {
-
 	background-color: white;}
 
 /* Show the dropdown menu (use JS to add this class to the 
