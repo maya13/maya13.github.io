@@ -5,30 +5,6 @@ body {
    
    
 
-   
- li {
-	 
-	 display:inline;
-	 position: relative;
-	 font-size:16px;
-	 font-family:Arial;
-	 margin:60px;
-	 border:1px solid white;
-	 padding:5px;
-     border-radius:5px;
- }  
-
-#hearder {
-
-	position:relative;
-	top: 80px;
-}
-
-ul{
-	list-style: none;
-	position: fixed;
-	
-}
  h1{
 	position: relative;
 	color:Black;
@@ -39,9 +15,17 @@ ul{
  }
  
 
+ h3{
+
+ 	color: black;
+ 	font-family: Arial;
+ }
+
+a {
+	text decoration:none;
+}
 
 
- 
  #main {
 	
 	 position:relative;
