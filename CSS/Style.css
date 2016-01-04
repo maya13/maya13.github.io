@@ -14,20 +14,26 @@ body {
 	
  }
  
+#button{
 
- h2{
+   position: relative;
+   border:1px solid black;
+   padding:10px;
+   border-radius:5px;
+   width: 100px;
+
+}
+
+ #button h2{
 
     
 	color:black;
 	text-align:center;
- 	 position: relative;
-     font-size:16px;
-     font-family:Arial;
-     margin:60px;
-     border:1px solid black;
-     padding:10px;
-     border-radius:5px;
-     width: 100px;
+ 	position: relative;
+    font-size:16px;
+    font-family:Arial;
+     
+    
  }
 
 a :hover{
