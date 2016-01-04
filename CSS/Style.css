@@ -15,7 +15,7 @@ body {
  }
  
 
- h3{
+ h2{
 
  	 color: black;
  	 position: relative;
@@ -23,7 +23,7 @@ body {
      font-family:Arial;
      margin:60px;
      border:1px solid black;
-     padding:5px;
+     padding:10px 10px;
      border-radius:5px;
  }
 
