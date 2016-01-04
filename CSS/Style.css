@@ -17,12 +17,18 @@ body {
 
  h3{
 
- 	color: black;
- 	font-family: Arial;
+ 	 color: black;
+ 	 position: relative;
+     font-size:16px;
+     font-family:Arial;
+     margin:60px;
+     border:1px solid black;
+     padding:5px;
+     border-radius:5px;
  }
 
 a {
-	text decoration:none;
+	text-decoration:none;
 }
 
 
