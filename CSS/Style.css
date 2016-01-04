@@ -18,11 +18,11 @@ body {
 
  #button h2{
 
-    
+    border:2px solid black;
 	color:black;
 	text-align:center;
  	position: relative;
-    font-size:16px;
+    font-size:18px;
     font-family:Arial;
      
     
