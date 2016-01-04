@@ -19,7 +19,7 @@ body {
  }  
 
 #hearder {
-	display:inline-block;
+	display:inline;
 	position:relative;
 	top: 80px;
 }
