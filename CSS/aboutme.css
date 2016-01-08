@@ -11,16 +11,20 @@ body {
      position: relative;
      font-size:16px;
      font-family:Arial;
-     margin:60px;
-     border:1px solid white;
-     padding:5px;
-     border-radius:5px;
+    
  }  
 
 #hearder {
 
+    float: left;
     position:relative;
     top: 80px;
+    background-color: black;
+}
+
+#main{
+
+    background-color: white:;
 }
 
 ul{
@@ -29,6 +33,10 @@ ul{
     
 }
 
+a {
+
+    text-decoration: none;
+}
 
    /* Dropdown Button */
 .dropbtn {
