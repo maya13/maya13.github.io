@@ -20,11 +20,17 @@ body {
     position:relative;
     top: 80px;
     background-color: black;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    padding:5px;
 }
 
 #main{
+    
 
-    background-color: white:;
+    top:150px;
+    background-color: white;
 }
 
 #footer img{
