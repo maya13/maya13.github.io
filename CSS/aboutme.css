@@ -38,8 +38,9 @@ body {
 }
 
 #main{
-    
-
+     position:relative;
+     width: 1200px;
+     height: 630px;
     top:150px;
     background-color: white;
 }
