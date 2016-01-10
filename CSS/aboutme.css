@@ -13,7 +13,7 @@ body {
 }
 
 #navbar ul{
-    color:white;
+
     padding:0px;
     margin:0px;
     list-style-type: none;
@@ -46,6 +46,12 @@ body {
      margin:auto;
      width: 50px;
      height:50px;
+     background-color:black;
+    clear:both;
+    text-align:right;
+    padding:5px;
+
+
 }
 
 #main ul{
@@ -99,7 +105,11 @@ a {
 }
 
 /* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: white;}
+.dropdown-content a:hover {background-color:
+
+ white;
+
+}
 
 /* Show the dropdown menu (use JS to add this class to the 
 	.dropdown-content container when the user clicks on the dropdown button) */
