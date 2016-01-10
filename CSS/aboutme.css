@@ -2,7 +2,14 @@ body {
    background: gray; 
   
    }
-   
+
+
+#header img{
+
+    width:60;
+    height:60;
+}  
+
 #navbar{
 
     
