@@ -32,8 +32,9 @@ body {
      height: 300px;
      top:150px;
      background-color: white;
-     text-align: center;
-
+     margin-right: auto;
+     margin-left: auto;
+     
 }
 #main img{
        top:50px;
