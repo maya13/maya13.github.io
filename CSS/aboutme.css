@@ -1,9 +1,11 @@
 body {
-   background: gray; 
+   background: white; 
   
    }
 
-
+#header{
+    background-color: gray;
+}
 #header img{
 
     width:60;
@@ -14,10 +16,9 @@ body {
 
     
     position:relative;
-    top: 50px;
     background-color: black;
     padding:5px;
-
+    
 }
 
 #navbar ul{
@@ -32,7 +33,7 @@ body {
     color:white;
     font-family: arial;
     display: inline;
-
+    text-decoration: none;
 }
 
 #main{
@@ -43,6 +44,7 @@ body {
      background-color:#fdf283;
      margin-right: auto;
      margin-left: auto;
+     border-radius: 5px;
     
 
 }
