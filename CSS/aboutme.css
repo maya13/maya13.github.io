@@ -4,7 +4,7 @@ body {
    }
 
 
-#header {
+#header img{
 
     width:60;
     height:60;
@@ -31,6 +31,7 @@ body {
     color:white;
     font-family: arial;
     display: inline;
+
 }
 
 #main{
@@ -38,15 +39,10 @@ body {
      width: 1000px;
      height: 300px;
      top:150px;
-     background-color: white;
+     background-color:#fdf283;
      margin-right: auto;
      margin-left: auto;
-     
-}
-#main img{
-       top:50px;
-       height:150; 
-       width:50;
+    
 
 }
 #footer img{
@@ -58,10 +54,7 @@ body {
      text-align:right;
       padding:5px;
 
-
 }
-
-
 
 a {
 
