@@ -36,12 +36,12 @@ body {
 }
 
 #main{
-     position:absolute;
+     position:relative;
      width: 1000px;
      height: 300px;
      top:100px;
      background-color:#fdf283;
-     margin: center;
+     margin:auto;
      display:block;
      text-align:left;
      border-radius: 5px;
