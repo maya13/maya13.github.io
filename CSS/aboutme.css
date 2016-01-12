@@ -44,7 +44,8 @@ body {
      background-color:#fdf283;
      margin-right: 10px;
      border-radius: 5px;
-     padding: 5px
+     padding: 5px;
+     display: inline; ;
     
 }
 
