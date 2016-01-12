@@ -52,10 +52,13 @@ body {
 #main p{
      float: left;
 }
-#main img{
+.pic img{
     
     position: absolute;
     top:50px;
+    width: 100;
+    height: 200;
+    float: left;
     
 }
 
