@@ -45,14 +45,14 @@ body {
      margin-right: auto;
      margin-left: auto;
      border-radius: 5px;
-    padding: 5px
+     padding: 5px
 
 }
 
 #footer {
  position: relative;
  margin-bottom: 20px;
- background-color:black;
+ background-color:gray;
  float:right;
  padding:5px;
 
