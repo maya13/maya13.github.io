@@ -34,6 +34,7 @@ body {
     font-family: arial;
     display: inline;
     text-decoration: none;
+    margin-right: 5 5px;
 }
 
 #main{
@@ -42,7 +43,7 @@ body {
      height: 300px;
      top:100px;
      background-color:#fdf283;
-     margin-right: 100px;
+     
      border-radius: 5px;
      padding: 5px;
      
