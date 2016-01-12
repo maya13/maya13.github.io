@@ -50,6 +50,7 @@ body {
 }
 
 #footer {
+ position: relative;
  margin-bottom: 20px;
  background-color:black;
  float:right;
