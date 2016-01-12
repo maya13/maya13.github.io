@@ -49,11 +49,15 @@ body {
      
     
 }
+#main p{
+     float: left;
+}
 #main img{
     
     position: absolute;
     top:50px;
     margin-left:50px;
+    float: right;
 }
 
 #footer {
