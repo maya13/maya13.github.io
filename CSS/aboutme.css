@@ -37,8 +37,8 @@ body {
 
 #main{
      position:relative;
-     width: 1000px;
-     height: 300px;
+     width: 1200px;
+     height: 500px;
      top:100px;
      background-color:#fdf283;
      margin:auto;
@@ -80,6 +80,7 @@ body {
 a {
 
     text-decoration: none;
+    color: white;
 }
 
    /* Dropdown Button */
