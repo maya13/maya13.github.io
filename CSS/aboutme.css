@@ -46,9 +46,17 @@ body {
      text-align:left;
      border-radius: 5px;
      padding: 10px;
-     
+     font-family:Veranda;
     
-
+}
+#main img{
+    
+    position: absolute;
+    top:50px;
+    width: 100;
+    height: 200;
+    float: left;
+    
 }
 
 #footer {
