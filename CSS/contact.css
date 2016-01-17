@@ -26,19 +26,20 @@ body{
 	list-style: none; 
 	float:left;
 	position:relative;
+	background:#000;
 
 }
 
 
 #navmenu ul li a {
 
-text-align: center;
-font-family: "Comic Sans MS", cursive ;
-text-decoration:none; /* unline to the link*/
-height:30px;
-width:150px;
-display:block;
-color:white;
+    text-align: center;
+    font-family: "Comic Sans MS", cursive ;
+    text-decoration:none; /* unline to the link*/
+    height:30px;
+    width:150px;
+    display:block;
+    color:white;
 }
 
  /* function that make dropdown work*/
@@ -55,6 +56,11 @@ color:white;
 
 #navmenu ul li:hover ul {
 	visibility: visible;
-
-
 	}
+
+
+/* style hover effect*/	
+#navmenu li:hover {
+   background: #8499b1;
+
+}
