@@ -1,6 +1,6 @@
 body{
 	
-	background:gray;
+	background:white;
 
 }
 
@@ -40,6 +40,10 @@ body{
     width:150px;
     display:block;
     color:white;
+    text-shadow: 1px 1px 1px #000;
+
+    /*border:1px solid #FFF
+      */
 }
 
  /* function that make dropdown work*/
@@ -64,3 +68,19 @@ body{
    background: #8499b1;
 
 }
+
+
+/*change hover color in dropdown menu*/
+
+#navmenu ul li:hover ul li a:hover {
+
+	background:#ccc;
+	color:#000;
+  
+ }
+
+ #navmenu a:hover {
+   
+      color:#000;
+
+ }
