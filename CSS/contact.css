@@ -28,3 +28,15 @@ body{
 	position:ralative;
 
 }
+
+
+#navmenu ul li a {
+
+text-align: center;
+font-family: "Comic Sans MS", cursive ;
+text-decoration:none;
+height:30px;
+width:150px;
+display:block;
+
+}
