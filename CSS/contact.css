@@ -1,5 +1,30 @@
 body{
 	
-	background:red;
+	background:gray;
+
+}
+
+
+#navmenu {
+
+      margin:0;
+      padding:0;v
+} 
+
+
+#navmenu ul {
+
+	 margin:0;
+	 padding:0; 
+ 
+}
+
+#navmenu li {
+
+	margin:0;
+	padding:0;
+	list-style: none; 
+	float:left;
+	position:ralative;
 
 }
