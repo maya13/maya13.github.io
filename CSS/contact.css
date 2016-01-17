@@ -40,3 +40,21 @@ width:150px;
 display:block;
 color:#000;
 }
+
+ /* funtion that make dropdown work*/
+
+#navmenu ul ul {
+
+	position: absolute;
+	visibility: :hidden;
+	top:30px;
+
+}
+
+/* code that bring back the ul when we click*/
+
+#navmenu ul li:hover ul {
+	visibility: visible;
+
+
+	}
