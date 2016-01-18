@@ -13,8 +13,8 @@ body{
 #header img{
     
     margin-left:40px;
-    width:110;
-    height:55;
+    width:125;
+    height:65;
     padding:5px;
 
     
@@ -25,7 +25,7 @@ body{
    
    margin-right: auto;
    position: relative;
-   top: 13px;
+   top: 17px;
    background-color:#4b4848;
    float:right;
    border-radius: 2px;
@@ -82,6 +82,7 @@ background: #000;
     display:block;
     color:white;
     text-shadow: 1px 1px 1px #000;
+    
 
     /*border:1px solid #FFF
       */
@@ -91,6 +92,7 @@ background: #000;
 
 #navmenu ul ul {
 
+   
 	position: absolute;
 	visibility:hidden;
 	top:30px;
@@ -101,6 +103,7 @@ background: #000;
 
 #navmenu ul li:hover ul {
 	visibility: visible;
+
 	}
 
 
