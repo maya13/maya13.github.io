@@ -9,6 +9,20 @@
 
 }
 
+#qoute{
+
+    float: right;
+    color: #000;
+    font-family: "Comic Sans MS", cursive ;
+    margin-right: 45px;
+    margin-top: 40px;
+    font-size: 20px;
+}
+
+#qoute h3{
+  float: right;
+  font-family: 15;
+}
 
 #main {
      position:relative;
