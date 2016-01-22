@@ -10,7 +10,7 @@
 }
 
 #qoute{
-
+    color:white;
     float: right;
     color: #000;
     font-family: "Comic Sans MS", cursive ;
@@ -29,7 +29,7 @@
      width: 1050px;
      height: 320px;
      top:100px;
-     background-color:#fdf283;
+     background-color:#81858f;
      margin:auto;
      display:block;
      text-align:left;
@@ -41,7 +41,7 @@
 
 body{
     
-    background:white;
+    background:#ebf0fa;
 
 }
 
