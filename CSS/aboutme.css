@@ -232,6 +232,7 @@ body {
 
 .img-circle {
 
+  position: relative;
   border-radius: 50%;
  
 
