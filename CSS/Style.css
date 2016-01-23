@@ -41,7 +41,7 @@ body {
 
 .link{
 	
-	margin-top: -1000px;
+	margin-top: -1100px;
 	margin-left: auto;
 	margin-right: auto;
 	position: relative;
@@ -52,7 +52,7 @@ body {
 
 	position:relative;
 	
-	bottom:-250px
+	bottom:-20px
 	
 
 }
@@ -107,6 +107,7 @@ a {
 .dropdown {
    
     position: relative;
+    padding: 30px;
     
 }
 
