@@ -28,19 +28,19 @@ a {
 
  #main {
 	
-	 background-image: rgba(0, 0, 0, .3);
+	
 	 margin:  auto;	
      font-size: 18px;	
-	
+		  /*background-image: rgba(0, 0, 0, .3);*/
+	 width: 1200px;
+	 height: 630px;
 }
 
 .backgroundDropdown img{
 
 /*position:relative;
 	 top:140px;*/
-	 
-	 width: 1200px;
-	 height: 630px;
+
 } 
 
 
@@ -58,11 +58,12 @@ a {
 
 
 
-/* div img {
+ .logo{
 	 
 	 width: 200px;
 	 height:200px;
- }*/
+	 vertical-align: top;
+ }
  
  .icon {
  	 position:relative;
