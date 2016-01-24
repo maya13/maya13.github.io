@@ -7,18 +7,13 @@ body{
 
 
 #header{
-  background-color: #009999; /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(left top, #009999, white); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(bottom right,#009999, white); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(bottom right,#009999, white); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(to bottom right,#009999, white); /* Standard syntax */
-} 
+  background-color: #009999;
 }
 
 #header img{
     
     margin-left:40px;
-    width:125;
+    width:135;
     height:65;
     padding:5px;
 
@@ -149,14 +144,32 @@ background: #000;
 #contactBox{
 
 position: relative;
-margin-left:80px;
-margin-right:150px;
+margin-left:auto;
+margin-right:auto;
 padding: 20px;
-top:50px;
-
+top:100px;
 background-color: #00cc99;
-
+width: 500px;
 border: 1px solid #008060;  
+border-radius: 5px;
 
 
+}
+
+#socialcontact {
+   
+   text-align: center;
+   margin-right: auto;
+   position: relative;
+   top: 30px;
+   margin-left: auto;
+   margin-right: auto;
+  
+ 
+}
+#socialcontact img{
+     margin-left: 20px; 
+     width: 50px;
+     height: 50px;
+     
 }
