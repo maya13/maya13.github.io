@@ -141,6 +141,15 @@ background: #000;
    /* //////////////contactboxes/////////////*/
 
 
+.contactform{
+
+  font-family: "Comic Sans MS", cursive ;
+  position: relative;
+  margin-left:auto; 
+  margin-right: auto;
+
+}
+
 #contactBox{
 
 position: relative;
@@ -161,7 +170,7 @@ border-radius: 5px;
    text-align: center;
    margin-right: auto;
    position: relative;
-   top: 30px;
+   top: 120px;
    margin-left: auto;
    margin-right: auto;
   
@@ -169,7 +178,7 @@ border-radius: 5px;
 }
 #socialcontact img{
      margin-left: 20px; 
-     width: 50px;
-     height: 50px;
+     width: 60px;
+     height: 60px;
      
 }
