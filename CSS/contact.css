@@ -236,14 +236,31 @@ p{
   margin-left: 0;
 }
 
+.nameBox{
+  font-size:15px;
+
+}
+
+.first-last{
+  margin: 0px;
+  width: 600px;
+  height: 130px;
+}
+
+.first-lastBox{
+  margin-top: 10px;
+  padding-top: 20px;
+  margin-left: 10px;
+}
+
+.firstText{
+  margin-left: 11px;
+}
 
 
-
-
-
-
-
-
+.lastText{
+  margin-left: 206px;
+}
 
 
 
