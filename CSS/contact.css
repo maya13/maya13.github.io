@@ -261,7 +261,7 @@ p{
 
 
 .lastText{
-  margin-left: 100px;
+  margin-left: 215px;
 }
 
 .e-mail{
@@ -274,8 +274,8 @@ label{
   margin-left: 10px;
 }
 
-input[type=subject]{
-  width: 565px;
+input[type=name]{
+  width: 275px;
   height: 40px;
 
 }
@@ -303,7 +303,7 @@ input[type=submit]{
   font-size: 20px;
   width: 100px;
   height: 35px;
-   border-radius: 8px;
+  border-radius: 8px;
 }
 
 a{
