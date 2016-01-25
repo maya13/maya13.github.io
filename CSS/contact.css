@@ -268,11 +268,35 @@ p{
   height: 100px;
 }
 
+label{
+  margin-left: 10px;
+}
 
+input[type=subject]{
+  width: 565px;
+  height: 40px;
 
+}
+input[type=email]{
+  width: 565px;
+  height: 40px;
+}
+input[type=subject]{
+  width: 565px;
+  height: 40px;
+}
+input[type=message]{
+  width: 565px;
+  height: 200px;
+}
+input:focus {
+  background-color: white;
 
+}
 
-
+input{
+  background-color: 
+}
 
 
 
