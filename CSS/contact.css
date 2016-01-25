@@ -198,13 +198,14 @@ fieldset{
    margin-top: 20px;
    width: 600px;
    font-size: 32px;
-   font-family: ;
+   font-family:"Comic Sans MS", cursive, sans-serif ;
 
 }
 
 .contactBox{
-  background-color: ;
+  background-color: #005480;
   padding: 20px;
+  border-radius: 5px
 }
 
 .Box{
@@ -232,7 +233,7 @@ p{
 .contactBox{
   font-size: 20px;
   font-family: ;
-  color:#0077b3 ;
+  color:#b3e5ff ;
   margin-left: 0;
 }
 
@@ -290,12 +291,12 @@ input[type=message]{
   height: 200px;
 }
 input:focus {
-  background-color: white;
+  background-color:#f2f2f2;
 
 }
 
 input{
-  background-color:light blue; 
+  background-color:white; 
 }
 input[type=submit]{
   font-size: 20px;
