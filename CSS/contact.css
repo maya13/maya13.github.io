@@ -259,7 +259,7 @@ p{
 
 
 .lastText{
-  margin-left: 206px;
+  margin-left: 100px;
 }
 
 .e-mail{
@@ -296,6 +296,11 @@ input:focus {
 
 input{
   background-color:light blue; 
+}
+input[type=submit]{
+  font-size: 20px;
+  width: 100px;
+  height: 50px;
 }
 
 
