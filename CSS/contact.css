@@ -199,13 +199,14 @@ fieldset{
    width: 600px;
    font-size: 32px;
    font-family:"Comic Sans MS", cursive, sans-serif ;
-
+   color:;
 }
 
 .contactBox{
   background-color: #005480;
   padding: 20px;
-  border-radius: 5px
+  border-radius: 5px;
+  height:600px;
 }
 
 .Box{
@@ -304,6 +305,10 @@ input[type=submit]{
   height: 50px;
 }
 
+a{
+  text-decoration: none;
+  color: #005480;
+}
 
 
 
