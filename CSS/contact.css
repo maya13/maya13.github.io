@@ -141,7 +141,7 @@ background: #000;
    /* //////////////contactboxes/////////////*/
 
 
-.contactform{
+/*.contactform{
   font-size: 40px;
   font-family: "Comic Sans MS", cursive ;
   position: relative;
@@ -150,9 +150,9 @@ background: #000;
   text-align: center;
   top:45px;
 
-}
+}*/
 
-#contactBox{
+/*#contactBox{
 
 position: relative;
 margin-left:auto;
@@ -167,14 +167,14 @@ border: 1px solid #008060;
 border-radius: 5px;
 
 
-}
+}*/
 
 #socialcontact {
    
    text-align: center;
    margin-right: auto;
    position: relative;
-   bottom: 90px;
+   bottom: px;
    margin-left: auto;
    margin-right: auto;
   
@@ -185,4 +185,32 @@ border-radius: 5px;
      width: 60px;
      height: 60px;
      
+}
+
+/*////// BOX //////*/
+form{
+  position: :relative;
+
+}
+
+fieldset{
+   padding: :10px;
+   margin-top: 20px;
+   width: 600px;
+   font-size: 32px;
+
+}
+
+.contactBox{
+  background-color: ;
+  padding: 20px;
+}
+
+.Box{
+  width: 650px;
+  height: 100px;
+  position: relative;
+  margin-top: 60px;
+  margin-right: auto;
+  margin-left: auto;
 }
