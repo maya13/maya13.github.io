@@ -140,6 +140,8 @@ background: #000;
 
 .cover{
 
-  width: 200;
-  height:100;
+  display: inline;
+  position: relative;
+  width: 450;
+  height:290;
 }
