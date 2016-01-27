@@ -1,7 +1,9 @@
 
-h1{
+.topic {
 
   background-color: #009999; 
+  padding: 5px;
+  border-radius: 5px;
 }
 
 #picme{
@@ -202,6 +204,7 @@ background: #000;
 
 body {
   font: 14px/1.4 arial;
+  color: white;
 }
 
 .imgWrap {
@@ -239,6 +242,7 @@ body {
 
   position: relative;
   border-radius: 50%;
+
  
 
 
@@ -260,7 +264,16 @@ body {
   margin-left: auto;
   margin-right: auto;
 
+}
 
+#all {
+  position: relative;
+  margin-left: 200px;
+  margin-right: 200px;
+  background-color:  #00324d;
+  top:60px;
+  height: 1600px;
+border-radius: 5px;
 }
 
 
