@@ -142,6 +142,17 @@ background: #000;
 
   display: inline;
   position: relative;
-  width: 450;
-  height:290;
+  width: 480;
+  height:300;
+  top:10px;
+}
+
+#main {
+
+  top:20px;
+  bottom: 50px;
+  position: relative;
+  padding: 25px;
+  
+
 }
