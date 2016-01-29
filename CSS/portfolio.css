@@ -153,6 +153,10 @@ background: #000;
   bottom: 50px;
   position: relative;
   padding: 25px;
+  width: 1500px;
+  height:500;
+  margin-right: auto;
+  margin-left: auto;
   
 
 }
