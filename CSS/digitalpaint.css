@@ -135,41 +135,14 @@ background: #000;
  }
 
  /*----------------------------------------------------------------------------------*/
-/*
-#gallery{
 
-  top:30px;
-}
-#galleryimg {
-   
-    position: relative;
-    display: inline-block;
-    margin: 10px;
-    border: 1px solid #ccc;
-  
-    
-} 
-
-
-#galleryimg img{
-
-     position: relative;     
-     margin-right: 1%;
-     margin-bottom: 0.5em; 
-     height:15em;
-     clear: both;
-}
-
-.desc {
-    padding: 15px;
-    text-align: center;
-}*/
 .inline {
 
   float: left; 
   height: 15em;
  margin-right: 1%; 
  margin-bottom: 0.5em;
+  cursor:pointer;
 }
 
 #main{
@@ -177,5 +150,69 @@ background: #000;
   width:1500px;
   margin-left: auto;
   margin-right: auto;
+ 
 
+}
+
+
+.inline {
+    opacity: 1.0;
+    filter: alpha(opacity=100); *//* For IE8 and earlier 
+   
+}
+
+.inline:hover {
+    opacity: 0.4;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+    
+}
+
+ul.img-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+ul.img-list li {
+  display: inline-block;
+ /* height: 150px;
+  margin: 0 1em 1em 0*/;
+  position: relative;
+ /* width: 150px;*/
+}
+
+
+span.text-content {
+  background: rgba(0,0,0,0.5);
+  color: white;
+  cursor: pointer;
+  padding: 20px;
+  display: table;
+  /*height: 150px;*/
+  left: 0;
+  position: absolute;
+    opacity: 0;
+}
+
+ul.img-list li:hover span.text-content {
+  opacity: 1;
+}
+
+
+/*specify which property we want to animate, opacity in this case,
+ and then how long the animation should take.*/
+span.text-content {
+  background: rgba(0,0,0,0.5);
+  color: white;
+  cursor: pointer;
+  display: table;
+  height: 200px;
+  left: 0;
+  position: absolute;
+  opacity: 0;
+  -webkit-transition: opacity 500ms;
+  -moz-transition: opacity 500ms;
+  -o-transition: opacity 500ms;
+  transition: opacity 500ms;
 }
