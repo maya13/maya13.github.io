@@ -1,6 +1,6 @@
 
 .topic {
-
+  width: 1050px;
   background-color: #009999; 
   padding: 5px;
   border-radius: 5px;
@@ -17,7 +17,7 @@
 #qoute{
     color:white;
     float: right;
-    color: #000;
+    color: #fff;
     font-family: "Comic Sans MS", cursive ;
     margin-right: 45px;
     margin-top: 40px;
@@ -208,8 +208,8 @@ body {
 
 .imgWrap {
   position: relative;
-  height: 150px;
-  width: 200px;
+  height: 100px;
+  width: 210px;
   float: left;
 
 }
@@ -225,7 +225,7 @@ body {
   visibility: hidden;
   opacity: 0;
   padding: 20px;
-  width: 120px;
+  width: 110px;
   height: 50px;
 
   /*remove comment if you want a gradual transition between states
@@ -243,8 +243,9 @@ body {
 .img-circle {
 
   position: relative;
-  width: 200px;
+  width: 180px;
   height: 100px;
+  margin-right: 30px;
 
 
 
@@ -253,13 +254,12 @@ body {
 
 #skill {
 
-  width: 1500px;
-  height: 220px;
+  width: 1050px;
+  height: 200px;
   position:relative;
   display: inline-block;
-  margin-right:30px;
-  
-
+  padding: 20px;
+  margin-right: 30px;
 }
 
 
@@ -276,16 +276,11 @@ body {
   margin-right: 200px;
   background-color:  #00324d;
   top:60px;
+
   width: 1200px;
-  height: 1600px;
+  height: 1550px;
   border-radius: 5px;
 }
 
 
 
-#margin{
-  position: relative;
-  margin-right: auto;
-  margin-left: auto;
-
-}
