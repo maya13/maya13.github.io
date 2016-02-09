@@ -41,7 +41,7 @@
      border-radius: 5px;
      padding: 10px;
      font-family:sans-serif;
-    
+
 }
 
 body{
@@ -224,6 +224,9 @@ body {
   color: #fff;
   visibility: hidden;
   opacity: 0;
+  padding: 20px;
+  width: 120px;
+  height: 50px;
 
   /*remove comment if you want a gradual transition between states
   -webkit-transition: visibility opacity 0.2s;
@@ -240,9 +243,9 @@ body {
 .img-circle {
 
   position: relative;
-  border-radius: 50%;
+  width: 200px;
+  height: 100px;
 
- 
 
 
 
@@ -254,6 +257,7 @@ body {
   height: 220px;
   position:relative;
   display: inline-block;
+
 
 }
 
@@ -271,6 +275,7 @@ body {
   margin-right: 200px;
   background-color:  #00324d;
   top:60px;
+  width: 1200px;
   height: 1600px;
   border-radius: 5px;
 }
