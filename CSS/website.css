@@ -1,0 +1,138 @@
+/*-----------Hearder-------------*/
+
+
+
+#header{
+  background-color:#009999;
+} 
+
+
+#header img{
+
+    position: relative;
+    margin-left:40px;
+    width:125;
+    height:65;
+    padding:5px;
+
+    
+    
+}
+
+#footer {
+   
+   margin-right: auto;
+   position: relative;
+   top: 17px;
+   background-color:#004c4d;
+   float:right;
+   border-radius: 2px;
+
+}
+#footer img{
+     margin-left: 20px; 
+     width: 30px;
+     height:30px;
+     
+}
+
+
+/*------------------------------------*/
+
+#navmenu {
+
+      margin:0;
+      padding:0;
+} 
+
+
+#navmenu ul {
+
+     margin:0;
+     padding:0; 
+     line-height:30px;
+     z-index: 300;
+}
+
+#navmenu {
+background: #000;
+
+}
+
+#navmenu li {
+
+    margin:0;
+    padding:0;
+    list-style: none; 
+    float:left;
+    position:relative;
+    background:#000;
+
+}
+
+
+#navmenu ul li a {
+
+    text-align: center;
+    font-family: "Comic Sans MS", cursive ;
+    text-decoration:none; /* unline to the link*/
+    height:30px;
+    width:150px;
+    display:block;
+    color:white;
+    text-shadow: 1px 1px 1px #000;
+    
+
+    /*border:1px solid #FFF
+      */
+}
+
+ /* function that make dropdown work*/
+
+#navmenu ul ul {
+
+   
+    position: absolute;
+    visibility:hidden;
+    top:30px;
+
+}
+
+/* code that bring back the ul when we click*/
+
+#navmenu ul li:hover ul {
+    visibility: visible;
+
+    }
+
+
+/* style hover effect*/ 
+#navmenu li:hover {
+   background: #8499b1;
+
+}
+
+
+/*change hover color in dropdown menu*/
+
+#navmenu ul li:hover ul li a:hover {
+
+    background:#ccc;
+    color:#000;
+  
+ }
+
+ #navmenu a:hover {
+   
+      color:#000;
+
+ }
+
+ .clearFloat{
+      clear:both;
+      margin:0;
+      padding:0;
+
+ }
+
+ /*----------------------------------------------------------------------------------*/
