@@ -136,6 +136,7 @@ background: #000;
 /* /////////////////////////////////////////////*/
 #main{
   top:20px;
+  width: 1500px;
   font-family: sans-serif;
   position: relative;
   margin-left: auto;
